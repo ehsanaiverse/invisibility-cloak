@@ -63,7 +63,7 @@ python -m pytest tests/
 - Reference issues and PRs
 
 Example:
-```
+
 Add multi-color support for cloak detection
 
 - Implement color selection UI
@@ -71,7 +71,7 @@ Add multi-color support for cloak detection
 - Add tests for color detection
 
 Closes #123
-```
+
 
 ## Code of Conduct
 
@@ -85,4 +85,3 @@ Closes #123
 Feel free to open an issue or reach out to the maintainers!
 
 Thank you for contributing! 🚀
-```

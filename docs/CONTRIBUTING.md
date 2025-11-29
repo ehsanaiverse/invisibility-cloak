@@ -1,4 +1,3 @@
-```markdown
 # 🤝 Contributing to Invisibility Cloak
 
 First off, thank you for considering contributing to this project! 🎉
@@ -33,7 +32,7 @@ Enhancement suggestions are tracked as GitHub issues. Include:
 
 ## Development Setup
 
-```bash
+
 # Clone your fork
 git clone https://github.com/ehsanaiverse/invisibility-cloak.git
 cd invisibility-cloak
@@ -47,7 +46,7 @@ pip install -r requirements.txt
 
 # Run tests (if available)
 python -m pytest tests/
-```
+
 
 ## Code Style
 
